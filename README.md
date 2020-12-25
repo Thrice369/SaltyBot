@@ -3,7 +3,9 @@ A discord bot for all your Salty needs.
 
 
 This bot is a current work in progress for a VR based youtube/troubleshooting server. It is meant to provide some laughs as well as helpful info. 
-The bot at this time is very limited. Will continue to update and will be uploading a different bot for both discord and other services soon.
+The bot at this time is very limited. Will continue to update and will be uploading a different bot for both discord and other services soon. 
+This project is based on an amazing tutorial created be CodeCamp.org. You can find that video here:https://www.youtube.com/watch?v=SPTfmiYiuok
+if you want to build this from scratch yourself. 
 
 Commands focus on the following:
 
